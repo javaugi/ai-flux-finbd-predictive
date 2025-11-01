@@ -34,6 +34,9 @@
 @REM ----------------------------------------------------------------------------
 
 set LOG_PATH=C:/Users/javau/dev/logs
+set SEC_API_KEY=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
+set DS_SEC_API_KEY=sk-7415bcd6908d4894bc6eacae5f8884e4
+set GEM_SEC_API_KEY=AIzaSyCtr381hUGjhtgDIW82tzR4HhX86bLsAhA
 
 @REM Begin all REM lines with '@' in case MAVEN_BATCH_ECHO is 'on'
 @echo off

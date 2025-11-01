@@ -35,6 +35,9 @@
 # ----------------------------------------------------------------------------
 
 export LOG_PATH=/home/javau/dev/logs
+export SEC_API_KEY=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
+export DS_SEC_API_KEY=sk-7415bcd6908d4894bc6eacae5f8884e4
+export GEM_SEC_API_KEY=AIzaSyCtr381hUGjhtgDIW82tzR4HhX86bLsAhA
 
 if [ -z "$MAVEN_SKIP_RC" ] ; then
 
